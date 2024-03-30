@@ -1,5 +1,6 @@
-import { FormEvent, useState } from 'react'
 import { FormularioVagas, BotaoPesquisarVagas, CampoInput } from './style'
+import { FormEvent, useState } from 'react'
+
 // import styles from './FormVagas.module.css'
 
 type Props = {
